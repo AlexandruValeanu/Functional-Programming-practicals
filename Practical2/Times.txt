@@ -1,0 +1,42 @@
+1. smallMaze
+
+-> Maze      : (0.01 secs, 0 bytes)
+-> MyMaze    : (0.02 secs, 0 bytes)
+-> MyMazeBST : (0.00 secs, 0 bytes)
+
+2. largeMaze
+
+-> Maze      : (0.08 secs, 0 bytes)
+-> MyMaze    : (0.06 secs, 0 bytes)
+-> MyMazeBST : (0.02 secs, 0 bytes)
+
+3. impossibleMaze
+
+-> Maze      : (0.00 secs, 0 bytes)
+-> MyMaze    : (0.00 secs, 0 bytes)
+-> MyMazeBST : (0.00 secs, 0 bytes)
+
+4. emptyMaze
+
+-> Maze      : (0.00 secs, 0 bytes)
+-> MyMaze    : (0.00 secs, 0 bytes)
+-> MyMazeBST : (0.00 secs, 0 bytes)
+
+5. strangeMaze
+
+-> Maze      : (0.08 secs, 20645696 bytes)
+-> MyMaze    : (0.03 secs, 21980680 bytes)
+-> MyMazeBST : (0.03 secs, 22286680 bytes)
+
+6. hardMaze
+
+-> Maze      : (0.08 secs, 0 bytes)
+-> MyMaze    : (0.04 secs, 0 bytes)
+-> MyMazeBST : (0.03 secs, 0 bytes)
+
+7. huuugeMaze
+
+-> Maze      : (12.29 secs, 4071221616 bytes)
+-> MyMaze    : (3.43 secs, 4083932328 bytes)
+-> MyMazeBST : (2.46 secs, 4194495056 bytes)
+
